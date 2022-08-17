@@ -1,0 +1,135 @@
+
+Summary
+
+Innovative Android Developer with 3+ years of experience designing, developing, testing, and maintaining Android applications in the sports entertainment industry. Built core features for app with 50K+ downloads.
+
+Android Developer  : 
+
+- Developed native Android applications and frameworks using Kotlin and Java.
+- Implemented features for various applications in Java, Kotlin.
+- Wrote elegant, self-documenting code, easy to read and adapt for other developers.
+- Defined and implemented app architectures and complex user interfaces.
+- Collaborated with designers, engineers, and product managers to build great experiences.
+- Sell app Templates on Codecanyon.
+- Design and implement frontend interfaces and backend services to mobile applications 
+- Designed and developed core features for a real-time Music Android application using Java (currently available in the Google Play store)
+- Built Android apps with back-end API integration to improve the customer experience and cut down on development time.
+- Worked with a team of 5 members and provided end-to-end solutions for clients 	
+- Designed and developed more than 20 mobile apps live on Play Store
+- Complete development of more than 8 websites
+- Established a team of 3 people covering every key role in an early-stagе startup.
+- Created an app which ranked in top 5
+- Created a free Downloader Tool app  that was downloaded over 100K.
+- Ads & monetization
+
+
+=================================================
+
+
+2015–2017
+
+- Developed native Android applications and frameworks using Kotlin and Java.
+- Implemented features for various applications in Java, Kotlin.
+- Wrote elegant, self-documenting code, easy to read and adapt for other developers.
+- Defined and implemented app architectures and complex user interfaces.
+- Collaborated with designers, engineers, and product managers to build great experiences.
+- Sell app Templates on Codecanyon.
+- Design and implement frontend interfaces and backend services to mobile applications 
+
+
+Key achievement:
+
+- Created a free Downloader Tool app  that was downloaded over 100K.
+- Ads & monetization.
+
+Skills
+
+Java, C++, Python, Xamarin, Android SDK, XML, SQL
+Mobile app monetization
+Agile methodology
+
+
+2015-2022
+- Started Android Courses in Java 
+- App architecture and design patterns
+- Java and OOP courses and books
+- Android Courses in Kotlin
+- Kotlin, Java and Object-oriented programming
+- Learn Web Development - Full Web Development Course
+- Learn Git and GitHub
+
+_______________________________________________________
+
+I'm Android UI/UX Designer
+I'm Native android developer|
+
+______________________________
+
+Languages & Tools
+
+-Java
+-Kotlin
+-XML
+-mySql
+-HTML
+-CSS
+-JavaScript
+______
+Android Studio - Eclipse - IntelliJ - VSCode - Adobe Photoshop - Adobe Illustrator
+
+
+
+_____________________________
+
+I am a professional android developer with about 5 year of experience in android app development. Building innovative android apps with architecture design for easy upgrades and bug fixes (CI/CD). 
+
+
+By profession, I am a software engineer working as an android developer with about three a year of experience in android app development and designing as I have been doing it since early days in university. Building innovative android apps with architecture design for easy upgrades and bug fixes (CI/CD). Ready to work on a product from requirement analysis to deployment and testing android apps. 
+
+
+I tend to keep myself up to date with important changes in the Android world and regularly look into new ways of solving things.
+Always looking for new challenges and opportunities.
+
+Good skills:
+• Android development:
+- Clean Architecture;
+- Data storage: Realm, SQLite, SharedPreferences, Internal/External memory;
+- Sensors, Location and Maps, Geofences, beacons;
+- Understanding and using guidelines; Material Design; common UI/UX patterns; using support libraries;
+- Creating applications for multiple screen resolutions/sizes;
+- Firebase (database, authentication, analytics, notifications, remote config);
+- Integrations with social networks (facebook, google, twitter, foursquare, vkontakte);
+- Dealing with REST API;
+- Signing and publishing applications. Successfully implemented pet-projects on Google Play (100k+ downloads);
+- Open source libraries: Dagger 2, Retrofit 2, ButterKnife, EventBus, Timber/Hugo, Crashlytics.
+
+• C/C++(C++11) (STL, COM, WinAPI, DirectShow, Direct3D 10). Video processing; reverse engineering, hooks; Linux (GCC, make, creating rpm and deb packages); networking (sockets, zeromq + protobuf); multithreading, high load;
+
+Basic skills:
+• C# – desktop applications, tools.
+• Python (Powershell, bash) – scripts to automate routine tasks.
+• PHP – simple back-ends, mostly for pet projects.
+• HTML, CSS, Javascript.
+
+___________________________________
+
+PROFESSIONAL SUMMARY
+
+I am a self-employed Android developer. My apps are available on both, Google Play Store and Amazon Appstore.
+Currently, I have over thirty apps available to the public. I have five apps that are in the 100K+ install range, in Google
+Play alone, and a bunch of apps under 100K installs. At the moment, I am working on my own projects, and improving
+my skills. However, I am open to working with others. Also, I am open to moving.
+
+I dedicate my time to learning new skills, and also learning to solve the same problems, but in exponential ways. Since I have over thirty apps, I get to play around with different types of scenarios. As a result, I end up becoming comfortable
+with solving many problems. Once I learn a certain skill, I update several of my apps to practice my understanding. After
+that, I develop new apps in order to challenge myself to create something new. This process helps me gain a deeper
+understanding of my own skill level, and it challenges me to continually improve my skills. The bottom line is that I have
+to keep learning in order to create greater things than I already have.
+
+
+
+
+
+
+
+
