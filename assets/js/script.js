@@ -106,7 +106,6 @@
 	const toggle = document.getElementById('toggleDark');
 	const toggle2 = document.getElementById('toggleDark2');
 	const body = document.querySelector('body');
-	document.getElementById("github-img").src = "assets/img/GitHub-white-logo.png";
 
 	toggle.addEventListener('click', function () {
 		this.classList.toggle('bi-moon');
