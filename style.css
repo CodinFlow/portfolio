@@ -719,7 +719,7 @@ img {
 .contact-card {
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 	padding: 16px;
-	min-height: 220px;
+	min-height: 200px;
 	text-align: center;
 	border-radius: 8px;
 	background-color: var(--white);
@@ -1092,6 +1092,19 @@ img {
 }
 
 
+@media only screen and (max-width: 990px) {
+	.column {
+		width: 100%;
+		display: block;
+		margin-bottom: 20px;
+	}
+
+	.cards-layout {
+		margin-left: 40px;
+		margin-right: 40px;
+	}
+
+}
 
 @media only screen and (max-width: 570px) {
 
@@ -1125,17 +1138,6 @@ img {
 		font-size: 14px;
 		line-height: 22px;
 
-	}
-
-	.column {
-		width: 100%;
-		display: block;
-		margin-bottom: 20px;
-	}
-
-	.cards-layout {
-		margin-left: 40px;
-		margin-right: 40px;
 	}
 
 
